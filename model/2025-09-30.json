@@ -1,0 +1,23 @@
+[
+    {
+        "location": "Nashik",
+        "latitude": 20.003423,
+        "longitude": 73.792962,
+        "date": "2025-09-30",
+        "avg_carbon_dioxide_ppm": 440.9200134277344
+    },
+    {
+        "location": "Mumbai",
+        "latitude": 19.070867,
+        "longitude": 72.876342,
+        "date": "2025-09-30",
+        "avg_carbon_dioxide_ppm": 444.7900085449219
+    },
+    {
+        "location": "Pune",
+        "latitude": 18.52175,
+        "longitude": 73.874065,
+        "date": "2025-09-30",
+        "avg_carbon_dioxide_ppm": 440.2099914550781
+    }
+]
